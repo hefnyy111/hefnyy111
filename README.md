@@ -102,23 +102,6 @@ From solving complex bugs to designing intuitive user experiences, I love bringi
     <li>🎨 Photoshop & Video Editing Skills</li>
   </ul>
 
-  <br/>
-
-  <!-- GitHub Stats -->
-  <h2 style="color: #00ff99;">📊 GitHub Stats & Analytics</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hefny111&show_icons=true&theme=radical" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hefny111&theme=radical" height="150"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hefny111&layout=compact&theme=radical" height="150"/>
-  </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hefny111&theme=react-dark" />
-  </p>
-
-  <br/>
-
   <!-- رسالة -->
   <blockquote style="color: #00ff99; font-size: 1.1rem;">
     "Code is like humor. When you have to explain it, it’s bad."
