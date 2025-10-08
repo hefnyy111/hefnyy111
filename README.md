@@ -89,7 +89,7 @@
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />  
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
         <span style="margin-left: 10px;">+ SQL</span>
       </td>
     </tr>
