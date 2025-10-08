@@ -46,7 +46,7 @@
     Passionate about building scalable backend systems and connecting them seamlessly with mobile and web frontends.
   </p>
 
-  <br/>
+<br/>
 
 <!-- Tech Stack -->
 <h2 style="color: #00ff99;">💻 Tech Stack</h2>
@@ -60,9 +60,7 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <b>Languages:</b> 
       <img src="https://skillicons.dev/icons?i=java,cpp,javascript,nodejs" height="40" />
-      <b>Frameworks:</b> 
       <img src="https://skillicons.dev/icons?i=express" height="40" />
     </td>
   </tr>
@@ -79,10 +77,10 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <b>Relational:</b> 
-      <img src="https://skillicons.dev/icons?i=mysql,sql" height="40" />
-      <b>NoSQL:</b> 
-      <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+      <img src="https://skillicons.dev/icons?i=mysql,firebase" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SQL_Logo.svg" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ProC_logo.png" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/FoxPro_logo.png" height="40" />
     </td>
   </tr>
 
@@ -112,6 +110,7 @@
   </tr>
 </table>
 <br/>
+
 
   <h2 style="color: #00ff99;">🎓 Education</h2>
   <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #ccc;">
