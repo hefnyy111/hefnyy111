@@ -7,7 +7,7 @@
   <!-- الوصف -->
   <p style="color: #aaa; font-size: 1.2rem; max-width: 700px;">
     🚀 19-year-old from <b>El-Mahalla El-Kubra, Egypt</b> passionate about crafting exceptional digital experiences.
-    Skilled in mobile app development, full-stack web solutions, design, and video editing.
+    Skilled in mobile app development, backend systems, full-stack web solutions, design, and video editing.
     Always striving to turn ideas into impactful products.
   </p>
 
@@ -25,20 +25,19 @@
   <!-- Skills & Expertise -->
   <h2 style="color: #00ff99;">🛠 Skills & Expertise</h2>
   <ul style="list-style: none; padding: 0; max-width: 600px; margin: auto; color: #ccc; text-align: left;">
-    <li>💻 Programming Languages: Java, JavaScript, C++</li>
-    <li>⚙️ Frameworks & Tools: Node.js, Express.js, Dart</li>
-    <li>🧠 Specialties: Algorithms, Bug Fixing & Error Solving</li>
-    <li>🎨 Creative Work: UI/UX Design, Video Montage & Editing</li>
+    <li>💻 Programming Languages: Java, JavaScript, C++, Dart</li>
+    <li>⚙️ Backend: Node.js, Express.js, MySQL, MongoDB</li>
+    <li>📱 Mobile Development: Flutter (Bloc, Firebase Integration)</li>
+    <li>🧠 Specialties: REST APIs, Authentication Systems, Database Design</li>
+    <li>🎨 Creative Work: UI/UX Design, Photoshop, Video Editing</li>
   </ul>
 
   <!-- About Me -->
   <h2 style="color: #00ff99;">💡 About Me</h2>
   <p style="color: #aaa; font-size: 1.1rem; max-width: 700px;">
-
-I blend creativity and technical expertise to craft applications that are both functional and visually stunning.  
-From solving complex bugs to designing intuitive user experiences, I love bringing ideas to life with precision and flair.
-    I'm a problem solver at heart, passionate about transforming ideas into functional, beautiful, and high-performance applications.
-    From writing optimized algorithms to crafting stunning UI designs, I bring both creativity and technical precision to every project.
+    I blend creativity and technical expertise to craft applications that are both functional and visually stunning.  
+    From solving complex bugs to designing intuitive user experiences, I love bringing ideas to life with precision and flair.  
+    Passionate about building scalable backend systems and connecting them seamlessly with mobile and web frontends.
   </p>
 
   <br/>
@@ -53,7 +52,7 @@ From solving complex bugs to designing intuitive user experiences, I love bringi
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
-        <img src="https://skillicons.dev/icons?i=java,cpp,nodejs,express" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp" />
       </td>
     </tr>
     <tr>
@@ -63,30 +62,28 @@ From solving complex bugs to designing intuitive user experiences, I love bringi
       </td>
     </tr>
     <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>UI/Styling</b></td>
-     <td style="padding: 10px; border: 1px solid #00ff99;">
-  <img src="https://skillicons.dev/icons?i=figma,ps" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="40" />
-
-
-</td>
-    </tr>
-    <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
-        <img src="https://skillicons.dev/icons?i=firebase,mongodb" />
+        <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #00ff99;"><b>UI/Styling</b></td>
+      <td style="padding: 10px; border: 1px solid #00ff99;">
+        <img src="https://skillicons.dev/icons?i=figma,ps" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="40" />
       </td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>DevOps</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
-        <img src="https://skillicons.dev/icons?i=github" />
+        <img src="https://skillicons.dev/icons?i=github,postman" />
       </td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Tools</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,discord" />
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio,discord" />
       </td>
     </tr>
   </table>
@@ -98,7 +95,8 @@ From solving complex bugs to designing intuitive user experiences, I love bringi
   <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #ccc;">
     <li>🎓 2nd year University Student - Computer Science</li>
     <li>💼 10 months experience in Flutter & Dart</li>
-    <li>💻 2 years experience in JavaScript & Discord Bots</li>
+    <li>💻 2 years experience in Node.js, JavaScript & Discord Bots</li>
+    <li>🧩 Solid understanding of MySQL & RESTful APIs</li>
     <li>🎨 Photoshop & Video Editing Skills</li>
   </ul>
 
