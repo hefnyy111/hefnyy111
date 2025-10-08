@@ -11,15 +11,18 @@
 
 <div align="center">
 
+  <!-- الاسم والعنوان -->
   <h1 style="color: #00ff99; font-size: 3rem; margin-bottom: 0;">Amar HeFny (ToMMy)</h1>
   <h3 style="color: #ccc; margin-top: 0;">Full Stack Developer • Software Engineer • Mobile Developer</h3>
 
+  <!-- الوصف -->
   <p style="color: #aaa; font-size: 1.2rem; max-width: 700px;">
     🚀 19-year-old from <b>El-Mahalla El-Kubra, Egypt</b> passionate about crafting exceptional digital experiences.
     Skilled in mobile app development, backend systems, full-stack web solutions, design, and video editing.
     Always striving to turn ideas into impactful products.
   </p>
 
+  <!-- روابط التواصل -->
   <p>
     <a href="mailto:amarhafny3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://wa.me/201040345145"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -30,15 +33,17 @@
 
   <br/>
 
+  <!-- Skills -->
   <h2 style="color: #00ff99;">🛠 Skills & Expertise</h2>
   <ul style="list-style: none; padding: 0; max-width: 600px; margin: auto; color: #ccc; text-align: left;">
-    <li>💻 Programming Languages: Java, JavaScript, C++, Dart</li>
-    <li>⚙️ Backend: Node.js, Express.js, MySQL, Firebase</li>
+    <li>💻 Programming Languages: Java, JavaScript, C++, Dart, SQL</li>
+    <li>⚙️ Backend: Node.js, Express.js</li>
     <li>📱 Mobile Development: Flutter (Bloc, Firebase Integration)</li>
     <li>🧠 Specialties: REST APIs, Authentication Systems, Database Design</li>
     <li>🎨 Creative Work: UI/UX Design, Photoshop, Video Editing</li>
   </ul>
 
+  <!-- About -->
   <h2 style="color: #00ff99;">💡 About Me</h2>
   <p style="color: #aaa; font-size: 1.1rem; max-width: 700px;">
     I blend creativity and technical expertise to craft applications that are both functional and visually stunning.  
@@ -50,42 +55,63 @@
 
   <!-- Tech Stack -->
   <h2 style="color: #00ff99;">💻 Tech Stack</h2>
-  <table style="border-collapse: collapse; border: 2px solid #00ff99; width: 80%; color: white; font-size: 1rem;">
+  <table style="border-collapse: collapse; border: 2px solid #00ff99; width: 85%; color: white; font-size: 1rem;">
     <tr style="background-color: #111;">
       <th style="padding: 10px; border: 1px solid #00ff99;">Category</th>
       <th style="padding: 10px; border: 1px solid #00ff99;">Technologies</th>
     </tr>
+
+    <!-- Programming Languages -->
+    <tr>
+      <td style="padding: 10px; border: 1px solid #00ff99;"><b>Programming Languages</b></td>
+      <td style="padding: 10px; border: 1px solid #00ff99;">
+        <img src="https://skillicons.dev/icons?i=java,javascript,cpp,dart,sqlite" />
+      </td>
+    </tr>
+
+    <!-- Backend -->
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,javascript" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express" />
       </td>
     </tr>
+
+    <!-- Frontend -->
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Frontend</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
         <img src="https://skillicons.dev/icons?i=flutter,dart" />
       </td>
     </tr>
+
+    <!-- Database -->
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
-        <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />  
+        <span style="margin-left: 10px;">+ SQL</span>
       </td>
     </tr>
+
+    <!-- UI / Design -->
     <tr>
-      <td style="padding: 10px; border: 1px solid #00ff99;"><b>UI/Styling</b></td>
+      <td style="padding: 10px; border: 1px solid #00ff99;"><b>UI / Design</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
         <img src="https://skillicons.dev/icons?i=figma,ps" height="40" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="40" />
       </td>
     </tr>
+
+    <!-- DevOps -->
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>DevOps</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
         <img src="https://skillicons.dev/icons?i=github,postman" />
       </td>
     </tr>
+
+    <!-- Tools -->
     <tr>
       <td style="padding: 10px; border: 1px solid #00ff99;"><b>Tools</b></td>
       <td style="padding: 10px; border: 1px solid #00ff99;">
@@ -96,15 +122,17 @@
 
   <br/>
 
+  <!-- Education -->
   <h2 style="color: #00ff99;">🎓 Education</h2>
   <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #ccc;">
     <li>🎓 2nd year University Student - Computer Science</li>
     <li>💼 10 months experience in Flutter & Dart</li>
     <li>💻 2 years experience in Node.js, JavaScript & Discord Bots</li>
-    <li>🧩 Solid understanding of MySQL & RESTful APIs</li>
+    <li>🧩 Solid understanding of MySQL, SQL & RESTful APIs</li>
     <li>🎨 Photoshop & Video Editing Skills</li>
   </ul>
 
+  <!-- Quote -->
   <blockquote style="color: #00ff99; font-size: 1.1rem;">
     "Code is like humor. When you have to explain it, it’s bad."
   </blockquote>
