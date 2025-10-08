@@ -73,16 +73,16 @@
     </td>
   </tr>
 
-  <!-- Database -->
-  <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
-    <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=mysql,firebase" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SQL_Logo.svg" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ProC_logo.png" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/FoxPro_logo.png" height="40" />
-    </td>
-  </tr>
+ <!-- Database -->
+<tr>
+  <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
+  <td style="padding: 10px; border: 1px solid #00ff99;">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" height="40" />
+    <img src="https://skillicons.dev/icons?i=sql" height="40" />
+    <img src="https://skillicons.dev/icons?i=prolog" height="40" /> <!-- placeholder لـ Pro*C -->
+    <img src="https://skillicons.dev/icons?i=foxpro" height="40" /> <!-- placeholder لـ FoxPro -->
+  </td>
+</tr>
 
   <!-- UI/Styling -->
   <tr>
