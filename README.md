@@ -26,7 +26,7 @@
   <h2 style="color: #00ff99;">🛠 Skills & Expertise</h2>
   <ul style="list-style: none; padding: 0; max-width: 600px; margin: auto; color: #ccc; text-align: left;">
     <li>💻 Programming Languages: Java, JavaScript, C++, Dart</li>
-    <li>⚙️ Backend: Node.js, Express.js, MySQL, MongoDB</li>
+    <li>⚙️ Backend: Node.js, Express.js, MySQL, Firebase</li>
     <li>📱 Mobile Development: Flutter (Bloc, Firebase Integration)</li>
     <li>🧠 Specialties: REST APIs, Authentication Systems, Database Design</li>
     <li>🎨 Creative Work: UI/UX Design, Photoshop, Video Editing</li>
