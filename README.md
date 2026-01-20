@@ -99,12 +99,24 @@
   </tr>
 
  <!-- Tools / IDEs -->
-<tr>
-  <td style="padding: 10px; border: 1px solid #00ff99;"><b>Tools / IDEs</b></td>
-  <td style="padding: 10px; border: 1px solid #00ff99;">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,npm,eslint,postman,discord" height="40" />
-  </td>
-</tr>
+<td style="padding: 10px; border: 1px solid #00ff99;">
+  <div style="
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  ">
+    <img src="https://skillicons.dev/icons?i=vscode" height="36" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="36" />
+    <img src="https://skillicons.dev/icons?i=git" height="36" />
+    <img src="https://skillicons.dev/icons?i=github" height="36" />
+    <img src="https://skillicons.dev/icons?i=npm" height="36" />
+    <img src="https://skillicons.dev/icons?i=eslint" height="36" />
+    <img src="https://skillicons.dev/icons?i=postman" height="36" />
+    <img src="https://skillicons.dev/icons?i=discord" height="36" />
+  </div>
+</td>
+
 </table>
 <br/>
 
