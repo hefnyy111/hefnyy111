@@ -80,13 +80,14 @@
     </td>
   </tr>
 
-  <!-- Database -->
-  <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
-    <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=firebase,mysql,mariadb" height="40" />
-    </td>
-  </tr>
+ <!-- Database -->
+<tr>
+  <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
+  <td style="padding: 10px; border: 1px solid #00ff99;">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,mariadb,postgresql,sqlite" height="40" />
+    <img src="https://skillicons.dev/icons?i=supabase" height="40" />
+  </td>
+</tr>
 
   <!-- UI / Styling -->
   <tr>
