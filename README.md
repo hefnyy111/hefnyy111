@@ -56,12 +56,19 @@
     <th style="padding: 10px; border: 1px solid #00ff99;">Technologies</th>
   </tr>
 
+  <!-- Programming Languages -->
+  <tr>
+    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Programming Languages</b></td>
+    <td style="padding: 10px; border: 1px solid #00ff99;">
+      <img src="https://skillicons.dev/icons?i=java,cpp,javascript,dart" height="40" />
+    </td>
+  </tr>
+
   <!-- Backend -->
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=java,cpp,javascript,nodejs" height="40" />
-      <img src="https://skillicons.dev/icons?i=express" height="40" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs" height="40" />
     </td>
   </tr>
 
@@ -69,7 +76,7 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>Frontend</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" />
+      <img src="https://skillicons.dev/icons?i=flutter" height="40" />
     </td>
   </tr>
 
@@ -77,36 +84,29 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=firebase,mysql,sql" height="40" />
+      <img src="https://skillicons.dev/icons?i=firebase,mysql,mariadb" height="40" />
     </td>
   </tr>
 
-  <!-- UI/Styling -->
+  <!-- UI / Styling -->
   <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>UI/Styling</b></td>
+    <td style="padding: 10px; border: 1px solid #00ff99;"><b>UI / Styling</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
       <img src="https://skillicons.dev/icons?i=figma,ps" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="40" />
     </td>
   </tr>
 
-  <!-- DevOps -->
+  <!-- DevOps & Tools -->
   <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>DevOps</b></td>
+    <td style="padding: 10px; border: 1px solid #00ff99;"><b>DevOps & Tools</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=github,postman" height="40" />
-    </td>
-  </tr>
-
-  <!-- Tools -->
-  <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Tools</b></td>
-    <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,discord" height="40" />
+      <img src="https://skillicons.dev/icons?i=git,github,npm,eslint,postman,vscode,androidstudio,discord" height="40" />
     </td>
   </tr>
 </table>
 <br/>
+
 
 
   <h2 style="color: #00ff99;">🎓 Education</h2>
