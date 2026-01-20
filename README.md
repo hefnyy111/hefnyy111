@@ -60,63 +60,61 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>Programming Languages</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=java,cpp,javascript,dart" height="40" />
+      <img src="https://skillicons.dev/icons?i=java,cpp,javascript,dart" height="36" />
     </td>
   </tr>
 
   <!-- Backend -->
-<tr>
-  <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
-  <td style="padding: 10px; border: 1px solid #00ff99;">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,swagger" height="40" />
-  </td>
-</tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
+    <td style="padding: 10px; border: 1px solid #00ff99;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,swagger" height="36" />
+    </td>
+  </tr>
 
   <!-- Frontend -->
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>Frontend</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=flutter" height="40" />
+      <img src="https://skillicons.dev/icons?i=flutter" height="36" />
     </td>
   </tr>
 
- <!-- Database -->
-<tr>
-  <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
-  <td style="padding: 10px; border: 1px solid #00ff99;">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,mariadb,postgresql,sqlite" height="40" />
-    <img src="https://skillicons.dev/icons?i=supabase" height="40" />
-  </td>
-</tr>
+  <!-- Database -->
+  <tr>
+    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Database</b></td>
+    <td style="padding: 10px; border: 1px solid #00ff99;">
+      <img src="https://skillicons.dev/icons?i=firebase,mysql,mariadb,postgresql,sqlite,supabase" height="36" />
+    </td>
+  </tr>
 
   <!-- UI / Styling -->
   <tr>
     <td style="padding: 10px; border: 1px solid #00ff99;"><b>UI / Styling</b></td>
     <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=figma,ps" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="40" />
+      <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+        <img src="https://skillicons.dev/icons?i=figma,ps" height="36" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="36" />
+      </div>
     </td>
   </tr>
 
- <!-- Tools / IDEs -->
-<td style="padding: 10px; border: 1px solid #00ff99;">
-  <div style="
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    flex-wrap: wrap;
-  ">
-    <img src="https://skillicons.dev/icons?i=vscode" height="36" />
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="36" />
-    <img src="https://skillicons.dev/icons?i=git" height="36" />
-    <img src="https://skillicons.dev/icons?i=github" height="36" />
-    <img src="https://skillicons.dev/icons?i=npm" height="36" />
-    <img src="https://skillicons.dev/icons?i=eslint" height="36" />
-    <img src="https://skillicons.dev/icons?i=postman" height="36" />
-    <img src="https://skillicons.dev/icons?i=discord" height="36" />
-  </div>
-</td>
-
+  <!-- Tools / IDEs -->
+  <tr>
+    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Tools / IDEs</b></td>
+    <td style="padding: 10px; border: 1px solid #00ff99;">
+      <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+        <img src="https://skillicons.dev/icons?i=vscode" height="36" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="36" />
+        <img src="https://skillicons.dev/icons?i=git" height="36" />
+        <img src="https://skillicons.dev/icons?i=github" height="36" />
+        <img src="https://skillicons.dev/icons?i=npm" height="36" />
+        <img src="https://skillicons.dev/icons?i=eslint" height="36" />
+        <img src="https://skillicons.dev/icons?i=postman" height="36" />
+        <img src="https://skillicons.dev/icons?i=discord" height="36" />
+      </div>
+    </td>
+  </tr>
 </table>
 <br/>
 
