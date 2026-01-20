@@ -65,12 +65,12 @@
   </tr>
 
   <!-- Backend -->
-  <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
-    <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs" height="40" />
-    </td>
-  </tr>
+<tr>
+  <td style="padding: 10px; border: 1px solid #00ff99;"><b>Backend</b></td>
+  <td style="padding: 10px; border: 1px solid #00ff99;">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,swagger" height="40" />
+  </td>
+</tr>
 
   <!-- Frontend -->
   <tr>
