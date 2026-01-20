@@ -98,13 +98,13 @@
     </td>
   </tr>
 
-  <!-- DevOps & Tools -->
-  <tr>
-    <td style="padding: 10px; border: 1px solid #00ff99;"><b>DevOps & Tools</b></td>
-    <td style="padding: 10px; border: 1px solid #00ff99;">
-      <img src="https://skillicons.dev/icons?i=git,github,npm,eslint,postman,vscode,androidstudio,discord" height="40" />
-    </td>
-  </tr>
+ <!-- Tools / IDEs -->
+<tr>
+  <td style="padding: 10px; border: 1px solid #00ff99;"><b>Tools / IDEs</b></td>
+  <td style="padding: 10px; border: 1px solid #00ff99;">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,npm,eslint,postman,discord" height="40" />
+  </td>
+</tr>
 </table>
 <br/>
 
